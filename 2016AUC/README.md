@@ -11,6 +11,7 @@ In this repo you will find the Contributor License Agreement template file that 
 Juan-Perez-Contributor-License-Agreement.md
 ```
 
+##### Be Aware: 
 
 | Note:        | By adding this file to this repo you are signing it with your github account and agreeing on the terms and conditions mentioned there.            | 
 | :-------------: |:-------------:| -----:|
