@@ -1,3 +1,5 @@
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+
 # Fermat Individual Contributor License Agreement
 In order to clarify the intellectual property license granted with Contributions from any person or entity, the Fermat Project (the "Project") must have a Contributor License Grant ("Grant") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of the Project and the Fermat Project Leads (the "Project Leads"); it does not change your rights to use your own Contributions for any other purpose.
 <br><br>
