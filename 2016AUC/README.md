@@ -4,4 +4,17 @@
 
 In this repo you will find the Contributor License Agreement template file that you need to sign up for the competition. Copy all of it's content to the clipboard, and go the the folder "license-agreements", create a new file starting with your name and the name of the template file, paste the content of the clipboard there and save it. 
 
+
+##### Example: 
+
+```shell
+Juan-Perez-Contributor-License-Agreement.md
+```
+
+
+| Note:        | By adding this file to this repo you are signing it with your github account and agreeing on the terms and conditions mentioned there.            | 
+| :-------------: |:-------------:| -----:|
+
+
+
 You are done! Now you are signed up! 
