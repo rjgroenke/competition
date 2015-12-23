@@ -3,5 +3,5 @@
 
 # Competitions
 ### Welcome to bitDubai software competitions !
-- [2016	Adopta un Componente] (https://bitdubai.com/wp/adopta-un-componente)
-- [2015	Java Developer] (http://bitdubai.com/wp/europa)
+- [2016	- Dubai - Adopt a Coponent / Adopta un Componente] (https://bitdubai.com/wp/adopta-un-componente)
+- [2015 - Budapest - Best Java Developer / Mejor Programador en JAVA] (http://bitdubai.com/wp/europa)
