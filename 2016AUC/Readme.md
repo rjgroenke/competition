@@ -1,1 +1,0 @@
-Adopta un Componente
