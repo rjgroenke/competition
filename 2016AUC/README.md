@@ -1,23 +1,19 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 # Adopt a Component and fly to Dubai competition.
+To enroll the competition, the first step is to sign the license agreement.
+Please follow the procedure [here](https://github.com/gustl-arg/contribution-program/tree/master/license-agreements/2016AUC-license-agreements/README.md)
 
-In this repo you will find the Contributor License Agreement template file that you need to sign up for the competition. Copy all of it's content to the clipboard, and go to the folder "license-agreements", create a new file starting with your name and the name of the template file, paste the content of the clipboard there and save it. 
+## After Signing: 
 
-<br>
-##### Example: 
+You can continue with the further steps as shown in either sites:
 
-```shell
-Juan-Perez-Contributor-License-Agreement.md
-```
+[Adopta un Componente](http://bitdubai.com/wp/adopta-un-componente) (ESPAÑOL)
 
-<br>
-##### Be Aware: 
+[Adopt a component](http://bitdubai.com/wp/adopt-a-component) (ENGLISH)
 
-| Note:        | By adding this file to this repo you are signing it with your github account and agreeing on the terms and conditions mentioned there.            | 
-| :-------------: |:-------------:| -----:|
+### Contact	
+If you have any doubts, please get in touch with the organization at
 
-<br>
-##### After Signing: 
+2016AUCcompetition@fermat.org
 
-You are done! Now you are signed up! 
