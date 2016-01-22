@@ -15,5 +15,5 @@ You can continue with the further steps as shown in either sites:
 ### Contact	
 If you have any doubts, please get in touch with the organization at
 
-2016AUCcompetition@fermat.org
+AUC2016@bitdubai.com
 
