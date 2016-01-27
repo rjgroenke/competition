@@ -17,6 +17,6 @@ For 2016 we also have many fun stuff on the pipeline. The first to come out is t
 <br><br>
 ##### [2015 - Budapest - Best Java Programmer / Mejor Programador en JAVA] (http://bitdubai.com/wp/europa)
 
-This one is already closed. You might see some pictures at the competition's official page following the link above.
+This one is already closed. You might want to see some pictures at the competitions official page following the link above.
 
 ![Fermat Budapest Competition 2015](https://github.com/bitDubai/competition/blob/master/Concurso-Java-Europa.jpg "Fermat Budapest Competition 2015")
