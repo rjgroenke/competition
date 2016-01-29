@@ -12,7 +12,7 @@ Below you can see a table with all current participants and adopted components.
 | # | Participant | Enrolled |  Component | Owner | Status | Comments | Score | Amount Collected [USD] |
 |:---:|:---:|:---:|:---:|---:|:---:|:---:|:---:|:---:|
 |1|arturo_z30| | | | |issue#1 27-12-2015 empty|||
-|2|dajuarez|6-1-2016| Fermat BNK-Bank Money Transaction-DEP | guillermo20 |waiting owner contact||||
+|2|dajuarez|6-1-2016| Fermat BNK-Bank Money Transaction-DEP | guillermo20 |owner contacted||||
 |3|rengifo89|6-1-2016| undefined | |initial contact only |isue #8|||
 |4|sanmope|6-1-2016 | undefined | | initial contact only |isue #9|||
 |5|multivak| |undefined | | repor forked - not enrolled | issue #10 6-1-2016|||
