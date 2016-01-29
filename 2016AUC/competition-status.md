@@ -17,9 +17,9 @@ Below you can see a table with all current participants and adopted components.
 |4|sanmope|6-1-2016 | undefined | | initial contact only |isue #9|||
 |5|multivak| |undefined | | repor forked - not enrolled | issue #10 6-1-2016|||
 |6|fvasquezjatar|13-1-2016 |PIP-NetworkService-SystemMonitor |fuelusumar| waiting owner contact ||||
-|7| | | | | ||||
-|8| | | | | ||||
-|9| | | | | ||||
+|7|Martin Carniello | | | | |martincarniello@gmail.com|||
+|8|Nicolas Pileci | | | | |nicolas.pileci@hotmail.com|||
+|9|Javier Mededovic | | | | |mededovic_543@yahoo.com.ar|||
 |10| | | | | ||||
 
 
