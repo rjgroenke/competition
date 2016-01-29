@@ -2,7 +2,7 @@
 
 # Adopt a Component and fly to Dubai competition.
 To enroll the competition, the first step is to sign the license agreement.
-Please follow the procedure [here](https://github.com/gustl-arg/contribution-program/tree/master/license-agreements/2016AUC-license-agreements/README.md)
+Please follow the procedure [here](https://github.com/gustl-arg/contribution-program/tree/master/license-agreements/README.md)
 
 ## After Signing: 
 
