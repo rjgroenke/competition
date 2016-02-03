@@ -1,12 +1,12 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 # Adopt a Component and fly to Dubai competition.
-To enroll the competition, the first step is to sign the license agreement.
+To sign up for the competition, you must first read and sign the license agreement.
 Please follow the procedure [here](https://github.com/bitdubai/contribution-program/tree/master/license-agreements/README.md)
 
 ## After Signing: 
 
-You can continue with the further steps as shown in either sites:
+You can now continue, following the next steps shown in any of the sites:
 
 [Adopta un Componente](http://bitdubai.com/wp/adopta-un-componente) (ESPAÑOL)
 
