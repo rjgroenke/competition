@@ -3,11 +3,11 @@
 # Adopt a component and fly to Dubai competition.
 
 ## Competition Status
-This documents provides the up-dated information for all participants in the 2016 Competition: "Adopt a component and fly to Dubai"
+This document provides the updated information for all participants of the 2016 Competition: "Adopt a component and fly to Dubai"
 
 ### Participants list
 
-Below you can see a table with all current participants and adopted components. 
+You can see below a chart with all the current participants and adopted components. 
 
 | # | Participant | Enrolled |  Component | Owner | Status | Comments | Score | Amount Collected [USD] |
 |:---:|:---:|:---:|:---:|---:|:---:|:---:|:---:|:---:|
@@ -32,7 +32,7 @@ If you have any doubts, please get in touch with the organization at
 
 AUC2016@bitdubai.com
 
-You can review the competition steps in:
+You can review the steps you need to follow for the competition:
 
 [Adopta un Componente](http://bitdubai.com/wp/adopta-un-componente) (ESPAÑOL)
 
