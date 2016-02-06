@@ -11,7 +11,7 @@ For 2016 we also have many fun stuff on the pipeline! We have already launched a
 
 Check out the link below to know more about this exciting competition!
 <br>
-##### [2016	- Dubai - Adopt a Component ](https://bitdubai.com/wp/adopt-a-component) / [en español](https://bitdubai.com/wp/adopta-un-componente)
+##### [2016	- Dubai - Adopt a Component ](https://bitdubai.com/wp/adopt-a-component) /     [ (versión en español) ](https://bitdubai.com/wp/adopta-un-componente)
  
 ![Fermat Dubai Competition 2016](https://github.com/bitDubai/competition/blob/master/Adopt-a-component-brochure.jpg "Fermat Dubai Competition 2016")
 
