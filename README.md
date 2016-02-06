@@ -11,9 +11,9 @@ For 2016 we also have many fun stuff on the pipeline! We have already launched a
 
 Check out the link below to know more about this exciting competition!
 <br>
-##### [2016	- Dubai - Adopt a Component / Adopta un Componente] (https://bitdubai.com/wp/adopta-un-componente)
+##### [2016	- Dubai - Adopt a Component ](https://bitdubai.com/wp/adopt-a-component) [en español](https://bitdubai.com/wp/adopta-un-componente)
  
-![Fermat Dubai Competition 2016](https://github.com/bitDubai/competition/blob/master/Adopta-Un-Componente-Brochure.jpg "Fermat Dubai Competition 2016")
+![Fermat Dubai Competition 2016](https://github.com/bitDubai/competition/blob/master/Adopt-a-Component-Brochure.jpg "Fermat Dubai Competition 2016")
 
 <br><br>
 ##### [2015 - Budapest - Best Java Programmer / Mejor Programador en JAVA] (http://bitdubai.com/wp/europa)
