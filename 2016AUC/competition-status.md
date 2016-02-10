@@ -11,7 +11,7 @@ You can see below a chart with all the current participants and adopted componen
 
 | # | Participant | Enrolled |  Component | Owner | Status | Comments | Score | Amount Collected [USD] |
 |:---:|:---:|:---:|:---:|---:|:---:|:---:|:---:|:---:|
-|1|dajuarez|6-1-2016| Fermat BNK-Bank Money Transaction-DEP | guillermo20 |owner contacted||||
+|1|dajuarez|6-1-2016| Fermat BNK-Bank Money Transaction-DEP | guillermo20 |adopted||||
 |2|rengifo89|6-1-2016| undefined | |initial contact only |isue #8|||
 |3|sanmope|6-1-2016 | undefined | | initial contact only |isue #9|||
 |4|fvasquezjatar|13-1-2016 |PIP-NetworkService-SystemMonitor |fuelusumar| waiting owner contact ||||
@@ -25,7 +25,7 @@ You can see below a chart with all the current participants and adopted componen
 
 Please Note: 
 * Participant: Github alias only.
-* Status: Choose one of following:  Initial contact / Forked / Enrolled / Waiting owner contact / Owner contacted / Developing / Testing / Evaluation / 
+* Status: Choose one of following:  interested / forked / enrolled / waiting owner/ contacted w owner/ adopted/ developing / testing / evaluation / approved / rejected 
 
 
 ### Contact	
