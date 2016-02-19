@@ -19,8 +19,17 @@ You can see below a chart with all the current participants and adopted componen
 |6|Javier-Mededovic (?) | | | | |mededovic_543@yahoo.com.ar|||
 |7|arturo_z30| | | | |issue#1 27-12-2015 empty|||
 |8|multivak| |undefined | | repor forked - not enrolled | issue #10 6-1-2016|||
-|9| | | | | ||||
-|10| | | | | ||||
+|9|omarps-mex|15-2-2016 | | | |omarps@gmail.com|||
+|10|ccunarro |15-2-2016 | | | |carloscunarro@gmail.com|||
+|11|dioris |15-2-2016 | | | |dioris.aguilar@gmail.com|||
+|12|Achi2211 |15-2-2016 | | | |achi2211@gmail.com|||
+|13|Hrms73 |15-2-2016 | | | |hmaldonado81292@gmail.com|||
+|14|kvaldivia |15-2-2016 | | | |kenny.valdivia.cs1@gmail.com|||
+|15|smash87 |15-2-2016 | | | |lgdetlef@gmail.com|||
+|16|sting3r987 |15-2-2016 | | | |dsdx987@gmail.com|||
+|17|bubalujan |15-2-2016 | | | |jorgematiaslujan@gmail.com|||
+
+
 
 
 Please Note: 
