@@ -17,7 +17,7 @@ You can see below a chart with all the current participants and adopted componen
 |5|MartinCarniello|30-1-2016| | |slack ||||
 |6|Javier-Mededovic (?)| | | |welcome ||||
 |7|arturo_z30| | | |interested|#1 27-12-2015 empty|||
-|8|multivak| |undefined| | forked |#10 6-1-2016|||
+|8|multivak| || | forked |#10 6-1-2016|||
 |9|omarps-mex|15-2-2016| | |slack ||||
 |10|ccunarro|15-2-2016| | |slack ||||
 |11|dioris|15-2-2016| | |slack ||||
