@@ -34,7 +34,7 @@ You can see below a chart with all the current participants and adopted componen
 
 Please Note: 
 * Participant: Github alias only.
-* Status: Choose one of following:  interested / forked / enrolled / waiting owner/ contacted w owner/ adopted/ developing / testing / evaluation / approved / rejected 
+* Status: Choose one of following:  interested / forked / enrolled / waiting (owner)/ contacted (owner)/ chosen / adopted / developing / testing / evaluation / approved / rejected 
 
 
 ### Contact	
