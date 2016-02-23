@@ -27,9 +27,13 @@ You can see below a chart with all the current participants and adopted componen
 |15|smash87|15-2-2016| | | slack||||
 |16|sting3r987|15-2-2016| | |slack||||
 |17|bubalujan|15-2-2016| | | slack||||
-
-
-
+|18|luiisfer|17-2-2016| | | slack||||
+|19|johndoe|18-2-2016| | |enrolled||||
+|20|vdonoso07|18-2-2016| | | slack||||
+|21|cdiegobb|18-2-2016| | | slack||||
+|22|amtornes|21-2-2016| | | slack||||
+|23|xnmartinmx|21-2-2016| | |enrolled||||
+|24|orlando711|23-2-2016| | |enrolled||||
 
 Please Note: 
 * Participant: Github alias only.
