@@ -1,5 +1,4 @@
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
-
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 # Adopt a component and fly to Dubai competition.
 
 ## Competition Status
@@ -11,30 +10,34 @@ You can see below a chart with all the current participants and adopted componen
 
 | # | Participant | Enrolled |  Component | Owner | Status | Comments | Score | Amount Collected [USD] |
 |:---:|:---:|:---:|:---:|---:|:---:|:---:|:---:|:---:|
-|1|dajuarez|6-1-2016| Fermat BNK-Bank Money Transaction-DEP | guillermo20 |adopted||||
-|2|rengifo89|6-1-2016| undefined | |initial contact only |isue #8|||
-|3|sanmope|6-1-2016 | undefined | | initial contact only |isue #9|||
-|4|fvasquezjatar|13-1-2016 |PIP-NetworkService-SystemMonitor |fuelusumar| contacted | component not ready yet|||
-|5|MartinCarniello |30-1-2016| | | |martincarniello@gmail.com|||
-|6|Javier-Mededovic (?) | | | | |mededovic_543@yahoo.com.ar|||
-|7|arturo_z30| | | | |issue#1 27-12-2015 empty|||
-|8|multivak| |undefined | | repor forked - not enrolled | issue #10 6-1-2016|||
-|9|omarps-mex|15-2-2016 | | | |omarps@gmail.com|||
-|10|ccunarro |15-2-2016 | | | |carloscunarro@gmail.com|||
-|11|dioris |15-2-2016 | | | |dioris.aguilar@gmail.com|||
-|12|Achi2211 |15-2-2016 | | | |achi2211@gmail.com|||
-|13|Hrms73 |15-2-2016 | | | |hmaldonado81292@gmail.com|||
-|14|kvaldivia |15-2-2016 | | | |kenny.valdivia.cs1@gmail.com|||
-|15|smash87 |15-2-2016 | | | |lgdetlef@gmail.com|||
-|16|sting3r987 |15-2-2016 | | | |dsdx987@gmail.com|||
-|17|bubalujan |15-2-2016 | | | |jorgematiaslujan@gmail.com|||
-
-
-
+|1|dajuarez|6-1-2016|Fermat BNK-Bank Money Transaction-DEP|guillermo20|chosen||||
+|2|rengifo89|6-1-2016|||enrolled|#8|||
+|3|sanmope|6-1-2016||| enrolled |#9|||
+|4|fvasquezjatar|13-1-2016|PIP-NetworkService-SystemMonitor|fuelusumar|contacted|component not ready yet|||
+|5|MartinCarniello|30-1-2016| | |slack ||||
+|6|Javier-Mededovic (?)| | | |welcome ||||
+|7|arturo_z30| | | |interested|#1 27-12-2015 empty|||
+|8|multivak| || | forked |#10 6-1-2016|||
+|9|omarps-mex|15-2-2016| | |slack ||||
+|10|ccunarro|15-2-2016| | |slack ||||
+|11|dioris|15-2-2016| | |slack ||||
+|12|Achi2211|15-2-2016| | |welcome||||
+|13|Hrms73|15-2-2016| | | slack||||
+|14|kvaldivia|15-2-2016| | | slack||||
+|15|smash87|15-2-2016| | | slack||||
+|16|sting3r987|15-2-2016| | |slack||||
+|17|bubalujan|15-2-2016| | | slack||||
+|18|luiisfer|17-2-2016| | | slack||||
+|19|johndoe|18-2-2016| | |enrolled||||
+|20|vdonoso07|18-2-2016| | | slack||||
+|21|cdiegobb|18-2-2016| | | slack||||
+|22|amtornes|21-2-2016| | | slack||||
+|23|xnmartinmx|21-2-2016| | |enrolled||||
+|24|orlando711|23-2-2016| | |enrolled||||
 
 Please Note: 
 * Participant: Github alias only.
-* Status: Choose one of following:  interested / forked / enrolled / waiting owner/ contacted w owner/ adopted/ developing / testing / evaluation / approved / rejected 
+* Status: Choose one of following:  interested / welcome / slack / forked / enrolled / waiting (owner)/ contacted (owner)/ chosen / adopted / developing / testing / evaluation / approved / rejected 
 
 
 ### Contact	
