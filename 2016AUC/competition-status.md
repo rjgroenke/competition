@@ -34,6 +34,7 @@ You can see below a chart with all the current participants and adopted componen
 |22|amtornes|21-2-2016| | | slack||||
 |23|xnmartinmx|21-2-2016| | |enrolled||||
 |24|orlando711|23-2-2016| | |enrolled||||
+|25|obardales|29-2-2016| | |enrolled||||
 
 Please Note: 
 * Participant: Github alias only.
