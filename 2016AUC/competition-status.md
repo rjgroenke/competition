@@ -33,7 +33,7 @@ You can see below a chart with all the current participants and adopted componen
 |21|cdiegobb|18-2-2016| | | slack||||
 |22|amtornes|21-2-2016| | | slack||||
 |23|xnmartinmx|21-2-2016| | |enrolled||||
-|24|orlando711|23-2-2016| | |enrolled||||
+|24|orlando711|23-2-2016|Crypto Broker Platform -Crypto Customer Community - CCC| |enrolled||||
 |25|jamar0017|25-2-2016| | |enrolled||||
 |26|obardales|29-2-2016| | |enrolled||||
 |27|MaxJunior04|01-3-2016| | |enrolled||||
