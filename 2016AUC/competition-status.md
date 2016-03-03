@@ -38,6 +38,7 @@ You can see below a chart with all the current participants and adopted componen
 |26|obardales|29-2-2016|CSH - Cash Money Transaction - Dep (#36)| |enrolled||||
 |27|MaxJunior04|01-3-2016|CSH - Cash Money Transaction - Wit (#38)| |enrolled||||
 |28|joaqin11|02-3-2016| | |enrolled||||
+|29|JuanPabloS117|03-3-2016|Platform CCI Crypto Customer Identity|enrolled||||
 
 Please Note: 
 * Participant: Github alias only.
