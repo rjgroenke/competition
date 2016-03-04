@@ -33,11 +33,12 @@ You can see below a chart with all the current participants and adopted componen
 |21|cdiegobb|18-2-2016| | | slack||||
 |22|amtornes|21-2-2016| | | slack||||
 |23|xnmartinmx|21-2-2016| | |enrolled||||
-|24|orlando711|23-2-2016|Crypto Broker Platform -Crypto Customer Community - CCC| |enrolled||||
+|24|orlando711|23-2-2016|Crypto Broker Platform -Crypto Customer Community - CCC|Nelsonalfo |enrolled||||
 |25|jamar0017|25-2-2016| | |enrolled||||
-|26|obardales|29-2-2016| | |enrolled||||
-|27|MaxJunior04|01-3-2016| | |enrolled||||
+|26|obardales|29-2-2016|CSH - Cash Money Transaction - Dep |Abicelis |enrolled||||
+|27|MaxJunior04|01-3-2016|CSH - Cash Money Transaction - Wit|Abicelis|enrolled||||
 |28|joaqin11|02-3-2016| | |enrolled||||
+|29|juanpablos117|03-03-2016|Platform CCI Crypto Customer Identity|Nelsonalfo|enrolled||||
 
 Please Note: 
 * Participant: Github alias only.
