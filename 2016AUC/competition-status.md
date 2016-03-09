@@ -41,6 +41,7 @@ You can see below a chart with all the current participants and adopted componen
 |29|juanpablos117|03-03-2016|Platform CCI Crypto Customer Identity|Nelsonalfo|enrolled||||
 |30|xluna|08-03-2016|||enrolled||||
 |31|richardsnake|09-03-2016|||enrolled||||
+|32|Qpipe|09-03-2016|||enrolled||||
 
 Please Note: 
 * Participant: Github alias only.
