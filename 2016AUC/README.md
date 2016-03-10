@@ -1,8 +1,8 @@
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 # Adopt a Component and fly to Dubai competition.
-To sign up for the competition, you must first read and sign the license agreement.
-Please follow the procedure [here](https://github.com/bitdubai/contribution-program/tree/master/license-agreements/README.md)
+To *sign up* for the competition, you must first read and sign the license agreement.
+To do that, please follow the sign-up procedure [here](https://github.com/bitdubai/contribution-program/tree/master/license-agreements/README.md)
 
 ## After Signing: 
 
