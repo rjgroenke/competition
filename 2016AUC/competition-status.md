@@ -20,7 +20,7 @@ You can see below a chart with all the current participants and adopted componen
 |8|multivak| || | forked |#10 6-1-2016|||
 |9|omarps-mex|15-2-2016| | |slack ||||
 |10|ccunarro|15-2-2016| | |slack ||||
-|11|dioris|15-2-2016| | |slack ||||
+|11|dioris|15-2-2016| | |rejected ||||
 |12|Achi2211|15-2-2016| | |welcome||||
 |13|Hrms73|15-2-2016| | | slack||||
 |14|kvaldivia|15-2-2016| | | slack||||
@@ -30,7 +30,7 @@ You can see below a chart with all the current participants and adopted componen
 |18|luiisfer|17-2-2016| | | slack||||
 |19|johndoe|18-2-2016| | |enrolled||||
 |20|vdonoso07|18-2-2016| | | slack||||
-|21|cdiegobb|18-2-2016| | | slack||||
+|21|cdiegobb|18-2-2016|Component-Cash Money-CAMO |Abicelis | enrolled||||
 |22|amtornes|21-2-2016| | | slack||||
 |23|xnmartinmx|21-2-2016| | |enrolled||||
 |24|orlando711|23-2-2016|Crypto Broker Platform -Crypto Customer Community - CCC|Nelsonalfo |enrolled||||
