@@ -41,12 +41,12 @@ You can see below a chart with all the current participants and adopted componen
 |29|juanpablos117|03-03-2016|Platform CCI Crypto Customer Identity|Nelsonalfo|contacted||||
 |30|xluna|08-03-2016|||inactive||||
 |31|richardsnake|09-03-2016|||inactive||||
-|32|Qpipe|09-03-2016|||enrolled||||
+|32|Qpipe|09-03-2016|||inactive||||
 |33|Don_Iva|25-03-2016|||slack||||
 |34|kcapote|30-03-2016|||slack||||
 |35|jorgencnc|30-03-2016|||slack||||
 |36|darthpolanco|30-03-2016|Digital Asset Wallet module Redeem Point|nindriago|slack||||
-|37|fv8|31-03-2016|||slack||||
+|37|fv8|31-03-2016|BNK Wallet Module Bank Money|guillermo|contacted||||
 
 Please Note: 
 * Participant: Github alias only.
