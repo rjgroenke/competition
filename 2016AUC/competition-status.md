@@ -47,7 +47,7 @@ You can see below a chart with all the current participants and adopted componen
 |35|jorgencnc|30-03-2016|||slack||||
 |36|darthpolanco|30-03-2016|Digital Asset Wallet module Redeem Point|nindriago|slack||||
 |37|fv8|31-03-2016|BNK Wallet Module Bank Money|guillermo|contacted||||
-|38|hideakiuchida|06-04-2016|||slack||||
+|38|hideakiuchida|06-04-2016|Crypto Currency Platform Actor Intra User|nattyco|contacted||||
 
 Please Note: 
 * Participant: Github alias only.
