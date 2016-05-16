@@ -10,7 +10,7 @@ You can see below a chart with all the current participants and adopted componen
 
 | # | Participant | Enrolled |  Component | Owner | Status | Comments | Score | Amount Collected [USD] |
 |:---:|:---:|:---:|:---:|---:|:---:|:---:|:---:|:---:|
-|1|dajuarez|6-1-2016|Fermat BNK-Bank Money Transaction-DEP|guillermo20|chosen||||
+|1|dajuarez|6-1-2016|||resigned||||
 |2|rengifo89|6-1-2016|||enrolled|#8|||
 |3|sanmope|6-1-2016||| enrolled |#9|||
 |4|fvasquezjatar|13-1-2016|PIP-NetworkService-SystemMonitor|fuelusumar|contacted|component not ready yet|||
@@ -42,13 +42,13 @@ You can see below a chart with all the current participants and adopted componen
 |30|xluna|08-03-2016|||inactive||||
 |31|richardsnake|09-03-2016|||inactive||||
 |32|Qpipe|09-03-2016|||inactive||||
-|33|Don_Iva|25-03-2016|||slack||||
+|33|Don_Iva|25-03-2016|Fermat BNK-Bank Money Transaction-DEP|Guillermo|slack||||
 |34|kcapote|30-03-2016|||slack||||
 |35|jorgencnc|30-03-2016|||slack||||
 |36|darthpolanco|30-03-2016|Digital Asset Wallet module Redeem Point|nindriago|slack||||
 |37|fv8|31-03-2016|BNK Wallet Module Bank Money|guillermo|contacted||||
 |38|hideakiuchida|06-04-2016|Crypto Currency Platform Wallet Module Crypto Wallet|lnacosta|contacted||||
-|39|nerzhei|19-04-2016|Crypto Broker Platform Business Transaction Customer Online Payment |nelsonalfo|contacted||||
+|39|nerzhei|19-04-2016|Crypto Broker Platform Business Transaction Customer Online Payment |darkestpriest|contacted||||
 |40|gpmichi|20-04-2016|Fermat ART Platform Sub App Module - FaId (Fan Identity)|alexanderejm|contacted||||
 
 Please Note: 
